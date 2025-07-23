@@ -1,0 +1,17 @@
+{
+  "name": "page-content-parser",
+  "version": "1.0.0",
+  "scripts": {
+    "build:angular": "cd extension-ui && ng build --output-path ../dist/extension-ui",
+    "build:extension": "tsc && cp -r extension/background dist/ && cp -r extension/content-scripts dist/",
+    "copy:assets": "cp -r extension/assets dist/ && cp manifest.json dist/",
+    "build": "npm run build:angular && npm run build:extension && npm run copy:assets",
+    "watch": "cd extension-ui && ng build --watch --output-path ../dist/extension-ui",
+    "start:backend": "cd backend && python -m uvicorn main:app --reload"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
