@@ -1,0 +1,848 @@
+{
+  "body.skin--responsive.skin-vector.skin-vector-search-vue.mediawiki.ltr.sitedir-ltr.mw-hide-empty-elt.ns-4.ns-subject.page-Wikipedia_Strona_główna.page-Main_Page.rootpage-Wikipedia_Strona_główna.skin-vector-2022.action-view.allyenha-keepedit.uls-dialog-sticky-hide > a.mw-jump-link" : {
+    "selector" : "body.skin--responsive.skin-vector.skin-vector-search-vue.mediawiki.ltr.sitedir-ltr.mw-hide-empty-elt.ns-4.ns-subject.page-Wikipedia_Strona_główna.page-Main_Page.rootpage-Wikipedia_Strona_główna.skin-vector-2022.action-view.allyenha-keepedit.uls-dialog-sticky-hide > a.mw-jump-link",
+    "text" : "Przejdź do zawartości",
+    "type" : "LINK",
+    "location" : {
+      "x" : -1,
+      "y" : -1
+    }
+  },
+  "body.skin--responsive.skin-vector.skin-vector-search-vue.mediawiki.ltr.sitedir-ltr.mw-hide-empty-elt.ns-4.ns-subject.page-Wikipedia_Strona_główna.page-Main_Page.rootpage-Wikipedia_Strona_główna.skin-vector-2022.action-view.allyenha-keepedit.uls-dialog-sticky-hide > div.vector-header-container" : {
+    "selector" : "body.skin--responsive.skin-vector.skin-vector-search-vue.mediawiki.ltr.sitedir-ltr.mw-hide-empty-elt.ns-4.ns-subject.page-Wikipedia_Strona_główna.page-Main_Page.rootpage-Wikipedia_Strona_główna.skin-vector-2022.action-view.allyenha-keepedit.uls-dialog-sticky-hide > div.vector-header-container",
+    "text" : "Menu główne\nSzukaj\nWspomóż Wikipedię\nUtwórz konto\nZaloguj się",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 0,
+      "y" : 0
+    }
+  },
+  "div.vector-header-start" : {
+    "selector" : "div.vector-header-start",
+    "text" : "Menu główne",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 8
+    }
+  },
+  "div.vector-header-end" : {
+    "selector" : "div.vector-header-end",
+    "text" : "Szukaj\nWspomóż Wikipedię\nUtwórz konto\nZaloguj się",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 280,
+      "y" : 17
+    }
+  },
+  "#p-search" : {
+    "selector" : "#p-search",
+    "text" : "Szukaj",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 280,
+      "y" : 17
+    }
+  },
+  "nav.vector-user-links" : {
+    "selector" : "nav.vector-user-links",
+    "text" : "Wspomóż Wikipedię\nUtwórz konto\nZaloguj się",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1098,
+      "y" : 24
+    }
+  },
+  "#pt-sitesupport-2" : {
+    "selector" : "#pt-sitesupport-2",
+    "text" : "Wspomóż Wikipedię",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1102,
+      "y" : 24
+    }
+  },
+  "#pt-createaccount-2" : {
+    "selector" : "#pt-createaccount-2",
+    "text" : "Utwórz konto",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1237,
+      "y" : 24
+    }
+  },
+  "#pt-login-2" : {
+    "selector" : "#pt-login-2",
+    "text" : "Zaloguj się",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1327,
+      "y" : 24
+    }
+  },
+  "div.mw-page-container" : {
+    "selector" : "div.mw-page-container",
+    "text" : "Przejdź do treści\n60 języków\nStrona główna\nDyskusja\nCzytaj\nKod źródłowy\nWyświetl historię\nNarzędzia\nWygląd ukryj\nTekst\nMały\nNormalny\nDuży\nSzerokość\nNormalna\nDuża\nKolor (beta)\nAutomatyczny\nJasny\nCiemny\nWstęp\nWitaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione\nKategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie\nCzy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca\nArtykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?\nSiostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji\nOrganizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.\nZobacz też: Strona główna z wczoraj • Strona główna na jutro • Dokumentacja\nTę stronę ostatnio edytowano 31 maj 2025, 15:06.\nTekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.\nPolityka prywatności\nO Wikipedii\nKorzystasz z Wikipedii tylko na własną odpowiedzialność\nPowszechne Zasady Postępowania\nDla deweloperów\nStatystyki\nOświadczenie o ciasteczkach\nWersja mobilna",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 0,
+      "y" : 66
+    }
+  },
+  "div.mw-content-container" : {
+    "selector" : "div.mw-content-container",
+    "text" : "Przejdź do treści\n60 języków\nStrona główna\nDyskusja\nCzytaj\nKod źródłowy\nWyświetl historię\nNarzędzia\nWygląd ukryj\nTekst\nMały\nNormalny\nDuży\nSzerokość\nNormalna\nDuża\nKolor (beta)\nAutomatyczny\nJasny\nCiemny\nWstęp\nWitaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione\nKategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie\nCzy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca\nArtykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?\nSiostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji\nOrganizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.\nZobacz też: Strona główna z wczoraj • Strona główna na jutro • Dokumentacja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 90
+    }
+  },
+  "header.mw-body-header" : {
+    "selector" : "header.mw-body-header",
+    "text" : "Przejdź do treści\n60 języków",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 90
+    }
+  },
+  "a.gdgt-edit-first-section" : {
+    "selector" : "a.gdgt-edit-first-section",
+    "text" : "Przejdź do treści",
+    "type" : "LINK",
+    "location" : {
+      "x" : 1179,
+      "y" : 105
+    }
+  },
+  "#p-lang-btn" : {
+    "selector" : "#p-lang-btn",
+    "text" : "60 języków",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1037,
+      "y" : 90
+    }
+  },
+  "div.vector-page-toolbar" : {
+    "selector" : "div.vector-page-toolbar",
+    "text" : "Strona główna\nDyskusja\nCzytaj\nKod źródłowy\nWyświetl historię\nNarzędzia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 122
+    }
+  },
+  "#left-navigation" : {
+    "selector" : "#left-navigation",
+    "text" : "Strona główna\nDyskusja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 36,
+      "y" : 122
+    }
+  },
+  "#ca-nstab-project" : {
+    "selector" : "#ca-nstab-project",
+    "text" : "Strona główna",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 122
+    }
+  },
+  "#ca-talk" : {
+    "selector" : "#ca-talk",
+    "text" : "Dyskusja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 149,
+      "y" : 122
+    }
+  },
+  "#right-navigation" : {
+    "selector" : "#right-navigation",
+    "text" : "Czytaj\nKod źródłowy\nWyświetl historię\nNarzędzia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 808,
+      "y" : 122
+    }
+  },
+  "[aria-label='Widok']" : {
+    "selector" : "[aria-label='Widok']",
+    "text" : "Czytaj\nKod źródłowy\nWyświetl historię",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 808,
+      "y" : 122
+    }
+  },
+  "#ca-view" : {
+    "selector" : "#ca-view",
+    "text" : "Czytaj",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 816,
+      "y" : 122
+    }
+  },
+  "#ca-viewsource" : {
+    "selector" : "#ca-viewsource",
+    "text" : "Kod źródłowy",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 870,
+      "y" : 122
+    }
+  },
+  "#ca-history" : {
+    "selector" : "#ca-history",
+    "text" : "Wyświetl historię",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 971,
+      "y" : 122
+    }
+  },
+  "nav.vector-page-tools-landmark" : {
+    "selector" : "nav.vector-page-tools-landmark",
+    "text" : "Narzędzia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1083,
+      "y" : 122
+    }
+  },
+  "div.vector-column-end" : {
+    "selector" : "div.vector-column-end",
+    "text" : "Wygląd ukryj\nTekst\nMały\nNormalny\nDuży\nSzerokość\nNormalna\nDuża\nKolor (beta)\nAutomatyczny\nJasny\nCiemny",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1203,
+      "y" : 134
+    }
+  },
+  "div.vector-appearance-pinnable-header" : {
+    "selector" : "div.vector-appearance-pinnable-header",
+    "text" : "Wygląd ukryj",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1219,
+      "y" : 135
+    }
+  },
+  "div.vector-pinnable-header-label" : {
+    "selector" : "div.vector-pinnable-header-label",
+    "text" : "Wygląd",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1219,
+      "y" : 136
+    }
+  },
+  "button.vector-pinnable-header-toggle-button.vector-pinnable-header-unpin-button" : {
+    "selector" : "button.vector-pinnable-header-toggle-button.vector-pinnable-header-unpin-button",
+    "text" : "ukryj",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1280,
+      "y" : 136
+    }
+  },
+  "#bodyContent" : {
+    "selector" : "#bodyContent",
+    "text" : "Wstęp\nWitaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione\nKategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie\nCzy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca\nArtykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?\nSiostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji\nOrganizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.\nZobacz też: Strona główna z wczoraj • Strona główna na jutro • Dokumentacja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 159
+    }
+  },
+  "h2.head-abstract" : {
+    "selector" : "h2.head-abstract",
+    "text" : "Wstęp",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 189
+    }
+  },
+  "#main-page" : {
+    "selector" : "#main-page",
+    "text" : "Witaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione\nKategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie\nCzy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca\nArtykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?\nSiostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji\nOrganizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.\nZobacz też: Strona główna z wczoraj • Strona główna na jutro • Dokumentacja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 183
+    }
+  },
+  "#main-page-header" : {
+    "selector" : "#main-page-header",
+    "text" : "Witaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione\nKategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 183
+    }
+  },
+  "#main-page-intro" : {
+    "selector" : "#main-page-intro",
+    "text" : "Witaj w Wikipedii,\nwolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 59,
+      "y" : 189
+    }
+  },
+  "#main-page-welcome" : {
+    "selector" : "#main-page-welcome",
+    "text" : "Witaj w Wikipedii,",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 59,
+      "y" : 193
+    }
+  },
+  "a" : {
+    "selector" : "a",
+    "text" : "2 lipca",
+    "type" : "LINK",
+    "location" : {
+      "x" : 284,
+      "y" : 1167
+    }
+  },
+  "div.main-page-info" : {
+    "selector" : "div.main-page-info",
+    "text" : "wolnej encyklopedii, którą każdy może redagować.\n1 664 152 artykuły, w tym 5242 wyróżnione",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 59,
+      "y" : 244
+    }
+  },
+  "div.main-page-info > a" : {
+    "selector" : "div.main-page-info > a",
+    "text" : "wyróżnione",
+    "type" : "LINK",
+    "location" : {
+      "x" : 306,
+      "y" : 277
+    }
+  },
+  "#main-page-portals" : {
+    "selector" : "#main-page-portals",
+    "text" : "Kategorie Wikipedii:\nNauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 721,
+      "y" : 189
+    }
+  },
+  "div.header.nomobile > div > div" : {
+    "selector" : "div.header.nomobile > div > div",
+    "text" : "Nauki ścisłe • Nauki przyrodnicze • Nauki społeczne • Nauki humanistyczne • Technika • Filozofia • Historia • Kultura • Sztuka  • Religioznawstwo • Gospodarka • Społeczeństwo • Sport • Polska • Biografie",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 721,
+      "y" : 235
+    }
+  },
+  "div.header.nomobile > div > div > a" : {
+    "selector" : "div.header.nomobile > div > div > a",
+    "text" : "Biografie",
+    "type" : "LINK",
+    "location" : {
+      "x" : 1038,
+      "y" : 325
+    }
+  },
+  "#mf-main-page" : {
+    "selector" : "#mf-main-page",
+    "text" : "Czy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca\nArtykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 364
+    }
+  },
+  "#main-page-column1" : {
+    "selector" : "#main-page-column1",
+    "text" : "Czy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?\nWydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…\nRocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 380
+    }
+  },
+  "#main-page-didyouknow" : {
+    "selector" : "#main-page-didyouknow",
+    "text" : "Czy wiesz…\nZ nowych i ostatnio rozbudowanych artykułów w Wikipedii:\n…jak rozmieszczone są freski na sklepieniu Kaplicy Sykstyńskiej? (na zdjęciu)\n…który grobowiec (na zdjęciu) został zamieniony w heroon?\n…co uznawane jest za główną zasługę Norberta Romualdeza?\n…kto był najmłodszym sędzią w historii filipińskiego Sądu Najwyższego?\n…że pasożyt olszy działa na koty jak kocimiętka i upamiętnia rosyjskiego szpiega towarzyszącego Mickiewiczowi w podróży na Krym?\nPropozycje do ekspozycji • Jak napisać nowy artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 386
+    }
+  },
+  "div.main-head" : {
+    "selector" : "div.main-head",
+    "text" : "Organizacja i promocja Wikimediów",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 54,
+      "y" : 2256
+    }
+  },
+  "div.article > div > div.section > p" : {
+    "selector" : "div.article > div > div.section > p",
+    "text" : "Zmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 1194
+    }
+  },
+  "b" : {
+    "selector" : "b",
+    "text" : "Pałłada",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 961
+    }
+  },
+  "span" : {
+    "selector" : "span",
+    "text" : "(na zdjęciu)",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 171,
+      "y" : 507
+    }
+  },
+  "div.article > div > div.section > div" : {
+    "selector" : "div.article > div > div.section > div",
+    "text" : "Inne Ilustracje na Medal • Jak zilustrować artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 1747
+    }
+  },
+  "i > a" : {
+    "selector" : "i > a",
+    "text" : "Jak zilustrować artykuł?",
+    "type" : "LINK",
+    "location" : {
+      "x" : 993,
+      "y" : 1751
+    }
+  },
+  "#main-page-news" : {
+    "selector" : "#main-page-news",
+    "text" : "Wydarzenia\nInwazja Rosji na Ukrainę • wojna Izraela z Hamasem • antyrządowe protesty w Turcji • wojna izraelsko-irańska\n\nOzzy Osbourne\nZakończył się wielkoszlemowy turniej Wimbledon 2025. W grze pojedynczej kobiet zwyciężyła Iga Świątek, a wśród mężczyzn triumfował Jannik Sinner (13 lipca)\nPowódź błyskawiczna nawiedziła amerykański stan Teksas, w jej wyniku śmierć poniosło 119 osób (7 lipca)\nOrganizacja Minor Planet Center potwierdziła, że odkryto 3I/ATLAS, trzeci obiekt międzygwiezdny, który przelatuje przez Układ Słoneczny po trajektorii hiperbolicznej (2 lipca)\nZmarli: Hulk Hogan • Chuck Mangione • Ozzy Osbourne (na zdjęciu) • Waldemar Skrzypczak • Urszula Kozioł • Ryszard Olesiński • Hitomi Obara • André Vingt-Trois • Felix Baumgartner • Joanna Kołaczkowska • Connie Francis • Bas Tajpan • Tadeusz Rolke • Muhammadu Buhari\nWięcej…",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 835
+    }
+  },
+  "div.article > div > div.section > p > b" : {
+    "selector" : "div.article > div > div.section > p > b",
+    "text" : "wojna izraelsko-irańska",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 202,
+      "y" : 911
+    }
+  },
+  "div.floatright" : {
+    "selector" : "div.floatright",
+    "text" : "Helen Mirren",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 484,
+      "y" : 1475
+    }
+  },
+  "ul" : {
+    "selector" : "ul",
+    "text" : "1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 86,
+      "y" : 1475
+    }
+  },
+  "ul > li" : {
+    "selector" : "ul > li",
+    "text" : "2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 86,
+      "y" : 1795
+    }
+  },
+  "ul > li > a" : {
+    "selector" : "ul > li > a",
+    "text" : "katastrofie promu Columbia",
+    "type" : "LINK",
+    "location" : {
+      "x" : 176,
+      "y" : 1825
+    }
+  },
+  "small" : {
+    "selector" : "small",
+    "text" : "(na fotografii)",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 450,
+      "y" : 1694
+    }
+  },
+  "div.article > div > div.section > p > a" : {
+    "selector" : "div.article > div > div.section > p > a",
+    "text" : "Muhammadu Buhari",
+    "type" : "LINK",
+    "location" : {
+      "x" : 395,
+      "y" : 1276
+    }
+  },
+  "#main-page-anniversaries" : {
+    "selector" : "#main-page-anniversaries",
+    "text" : "Rocznice\n26 lipca: imieniny obchodzą m.in.: Anna, Hanna i Joachim\nOkrągłe, pięcioletnie rocznice:\nHelen Mirren\n1755 – Giacomo Casanova został aresztowany przez wenecką inkwizycję państwową\n1815 – urodził się polsko-niemiecki neurolog i embriolog Robert Remak\n1875 – urodził się szwajcarski psychiatra i psycholog Carl Gustav Jung, twórca psychologii analitycznej oraz typologii osobowości\n1945 – urodziła się brytyjska aktorka aktorka teatralna, filmowa i telewizyjna pochodzenia rosyjskiego Helen Mirren (na fotografii) (Szaleństwo króla Jerzego, Gosford Park, Ostatnia stacja oraz Królowa)\n1970 – zmarł szwajcarski rzeźbiarz Milo Martin\n2005 – rozpoczęła się misja STS-114 promu kosmicznego Discovery, pierwsza po katastrofie promu Columbia z 2003 roku\n25 lipca • Kalendarium dzień po dniu • 27 lipca",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 1361
+    }
+  },
+  "p" : {
+    "selector" : "p",
+    "text" : "Pałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 957
+    }
+  },
+  "p > a" : {
+    "selector" : "p > a",
+    "text" : "Dokumentacja",
+    "type" : "LINK",
+    "location" : {
+      "x" : 1076,
+      "y" : 2483
+    }
+  },
+  "i" : {
+    "selector" : "i",
+    "text" : "Czytaj więcej…",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 800
+    }
+  },
+  "ul > li > i" : {
+    "selector" : "ul > li > i",
+    "text" : "Królowa",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 86,
+      "y" : 1744
+    }
+  },
+  "div" : {
+    "selector" : "div",
+    "text" : "25 lipca • Kalendarium dzień po dniu • 27 lipca",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 86,
+      "y" : 1852
+    }
+  },
+  "#main-page-column2" : {
+    "selector" : "#main-page-column2",
+    "text" : "Artykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?\nDobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?\nIlustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 619,
+      "y" : 380
+    }
+  },
+  "#main-page-featured-article" : {
+    "selector" : "#main-page-featured-article",
+    "text" : "Artykuł na medal\nCosworth 4WD – samochód Formuły 1, zaprojektowany w 1969 roku przez Robina Herda dla firmy Cosworth. Nigdy nie wziął udziału w wyścigu, a jego głównym przeznaczeniem było przeprowadzanie testów przez Trevora Taylora oraz Mike'a Costina w celu poprawienia trakcji samochodów napędzanych przez silniki Cosworth DFV. Odlew silnika DFV do samochodu wykonano z magnezu, co firma chciała przetestować, widząc w tym \"przyszłość\" Formuły 1. Odlanie silnika z magnezu miało na celu także zmniejszyć jego wagę, a zyski z tego tytułu zostały wykorzystane do wstawienia dodatkowych części do układu przeniesienia napędu. By polepszyć zachowanie centralnego dyferencjału, silnik był umieszczony odwrotnie niż w przypadku innych samochodów napędzanych przez silniki DFV. Jest to jedyny samochód Formuły 1 zbudowany przez Coswortha. W 1971 roku Cosworth przekazał model wraz z częściami muzeum znajdującemu się przy torze Donington Park – Donington Grand Prix Collection. Czytaj więcej…\nInne Artykuły na Medal i Listy na Medal • Jak napisać doskonały artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 386
+    }
+  },
+  "a.mw-redirect" : {
+    "selector" : "a.mw-redirect",
+    "text" : "dyferencjału",
+    "type" : "LINK",
+    "location" : {
+      "x" : 813,
+      "y" : 696
+    }
+  },
+  "#main-page-good-article" : {
+    "selector" : "#main-page-good-article",
+    "text" : "Dobry artykuł\nPałłada – rosyjski krążownik z początku XX wieku, jeden z trzech okrętów typu Diana, później japoński krążownik szkolny. Z konstrukcyjnego punktu widzenia stanowił krążownik pancernopokładowy, a pierwotnie klasyfikowany był jako krążownik I rangi. Wyporność projektowa okrętu wynosiła 6731 ton. Uzbrojenie składało się przede wszystkim z ośmiu dział kalibru 152 mm i 24 dział kalibru 75 mm. Napęd stanowiły maszyny parowe, pozwalające na osiąganie prędkości 19 węzłów. Okręt zbudowany został w Petersburgu w Rosji, zwodowany w 1899 roku, a wszedł do służby w marynarce wojennej Imperium Rosyjskiego w 1902 roku. Brał udział w walkach pod Port Artur podczas wojny rosyjsko-japońskiej, podczas której został zatopiony w 1904 roku w bazie Port Artur. Po podniesieniu przez Japończyków służył jako japoński krążownik szkolny i stawiacz min „Tsugaru” do 1922 roku, po czym został zatopiony jako okręt-cel w 1924 roku. Czytaj więcej…\nInne Dobre Artykuły • Jak pisać w stylu encyklopedycznym?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 911
+    }
+  },
+  "#main-page-featured-image" : {
+    "selector" : "#main-page-featured-image",
+    "text" : "Ilustracja na medal\nORP Grom\nInne Ilustracje na Medal • Jak zilustrować artykuł?",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 636,
+      "y" : 1410
+    }
+  },
+  "#main-page-footer" : {
+    "selector" : "#main-page-footer",
+    "text" : "Siostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji\nOrganizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 1913
+    }
+  },
+  "#main-page-sister-projects" : {
+    "selector" : "#main-page-sister-projects",
+    "text" : "Siostrzane projekty Wikipedii\nWikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 1913
+    }
+  },
+  "div.mw-content-ltr.mw-parser-output > div.section > div.footer > div.section > div" : {
+    "selector" : "div.mw-content-ltr.mw-parser-output > div.section > div.footer > div.section > div",
+    "text" : "Wikiźródła\nWolna biblioteka\nWikisłownik\nWielojęzyczny słownik\nCommons\nRepozytorium mediów\nWikidane\nRepozytorium danych\nWikinews\nSerwis informacyjny\nWikispecies\nKatalog gatunków\nWikibooks\nWolne podręczniki\nWikicytaty\nKolekcja cytatów\nWikipodróże\nInformacje turystyczne\nWikiwersytet\nWolna edukacja\nWikifunkcje\nWolna biblioteka funkcji",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 1957
+    }
+  },
+  "ul.tpl-sisproj--main.tpl-sisproj-12 > li" : {
+    "selector" : "ul.tpl-sisproj--main.tpl-sisproj-12 > li",
+    "text" : "Wikifunkcje\nWolna biblioteka funkcji",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 515,
+      "y" : 2141
+    }
+  },
+  "a.extiw" : {
+    "selector" : "a.extiw",
+    "text" : "Meta-Wiki",
+    "type" : "LINK",
+    "location" : {
+      "x" : 892,
+      "y" : 2306
+    }
+  },
+  "span.sub" : {
+    "selector" : "span.sub",
+    "text" : "Koordynacja projektów Wikimedia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 892,
+      "y" : 2335
+    }
+  },
+  "#main-page-wikimedia" : {
+    "selector" : "#main-page-wikimedia",
+    "text" : "Organizacja i promocja Wikimediów\nWikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2250
+    }
+  },
+  "div.section.plainlinks > div" : {
+    "selector" : "div.section.plainlinks > div",
+    "text" : "Wikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia\nJeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 2294
+    }
+  },
+  "ul.tpl-sisproj--extra" : {
+    "selector" : "ul.tpl-sisproj--extra",
+    "text" : "Wikimedia Foundation\nPonosi prawną i techniczną odpowiedzialność za Wikipedię.\nWikimedia Polska\nPromocja polskich projektów Wikimedia\nMeta-Wiki\nKoordynacja projektów Wikimedia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 2294
+    }
+  },
+  "ul.tpl-sisproj--extra > li" : {
+    "selector" : "ul.tpl-sisproj--extra > li",
+    "text" : "Meta-Wiki\nKoordynacja projektów Wikimedia",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 848,
+      "y" : 2294
+    }
+  },
+  "a.external.text" : {
+    "selector" : "a.external.text",
+    "text" : "Wikimedia Polska",
+    "type" : "LINK",
+    "location" : {
+      "x" : 593,
+      "y" : 2306
+    }
+  },
+  "div.plainlinks.tpl-sisproj > div" : {
+    "selector" : "div.plainlinks.tpl-sisproj > div",
+    "text" : "Jeżeli jesteś nowym użytkownikiem Wikipedii, możesz znaleźć pomoc u innych członków społeczności, m.in. u przewodników czy administratorów. Poznaj też inne formy kontaktu z wikipedystami.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 60,
+      "y" : 2378
+    }
+  },
+  "#main-page-for-editors" : {
+    "selector" : "#main-page-for-editors",
+    "text" : "Zobacz też: Strona główna z wczoraj • Strona główna na jutro • Dokumentacja",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2479
+    }
+  },
+  "div.mw-footer-container" : {
+    "selector" : "div.mw-footer-container",
+    "text" : "Tę stronę ostatnio edytowano 31 maj 2025, 15:06.\nTekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.\nPolityka prywatności\nO Wikipedii\nKorzystasz z Wikipedii tylko na własną odpowiedzialność\nPowszechne Zasady Postępowania\nDla deweloperów\nStatystyki\nOświadczenie o ciasteczkach\nWersja mobilna",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2567
+    }
+  },
+  "#footer-info" : {
+    "selector" : "#footer-info",
+    "text" : "Tę stronę ostatnio edytowano 31 maj 2025, 15:06.\nTekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2629
+    }
+  },
+  "#footer-info-lastmod" : {
+    "selector" : "#footer-info-lastmod",
+    "text" : "Tę stronę ostatnio edytowano 31 maj 2025, 15:06.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2629
+    }
+  },
+  "#footer-info-copyright" : {
+    "selector" : "#footer-info-copyright",
+    "text" : "Tekst udostępniany na licencji Creative Commons: uznanie autorstwa, na tych samych warunkach, z możliwością obowiązywania dodatkowych ograniczeń. Zobacz szczegółowe informacje o warunkach korzystania.",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2658
+    }
+  },
+  "footer.mw-footer > ul > li > a.external.text" : {
+    "selector" : "footer.mw-footer > ul > li > a.external.text",
+    "text" : "warunkach korzystania",
+    "type" : "LINK",
+    "location" : {
+      "x" : 1055,
+      "y" : 2666
+    }
+  },
+  "#footer-places-privacy" : {
+    "selector" : "#footer-places-privacy",
+    "text" : "Polityka prywatności",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 44,
+      "y" : 2687
+    }
+  },
+  "#footer-places-about" : {
+    "selector" : "#footer-places-about",
+    "text" : "O Wikipedii",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 164,
+      "y" : 2687
+    }
+  },
+  "#footer-places-disclaimers" : {
+    "selector" : "#footer-places-disclaimers",
+    "text" : "Korzystasz z Wikipedii tylko na własną odpowiedzialność",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 237,
+      "y" : 2687
+    }
+  },
+  "#footer-places-wm-codeofconduct" : {
+    "selector" : "#footer-places-wm-codeofconduct",
+    "text" : "Powszechne Zasady Postępowania",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 552,
+      "y" : 2687
+    }
+  },
+  "#footer-places-developers" : {
+    "selector" : "#footer-places-developers",
+    "text" : "Dla deweloperów",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 753,
+      "y" : 2687
+    }
+  },
+  "#footer-places-statslink" : {
+    "selector" : "#footer-places-statslink",
+    "text" : "Statystyki",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 857,
+      "y" : 2687
+    }
+  },
+  "#footer-places-cookiestatement" : {
+    "selector" : "#footer-places-cookiestatement",
+    "text" : "Oświadczenie o ciasteczkach",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 921,
+      "y" : 2687
+    }
+  },
+  "#footer-places-mobileview" : {
+    "selector" : "#footer-places-mobileview",
+    "text" : "Wersja mobilna",
+    "type" : "TEXT",
+    "location" : {
+      "x" : 1089,
+      "y" : 2687
+    }
+  }
+}
