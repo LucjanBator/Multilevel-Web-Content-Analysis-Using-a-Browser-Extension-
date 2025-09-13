@@ -5,13 +5,13 @@ import extension.utils.ContentSaver;
 import org.openqa.selenium.WebDriver;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import java.util.Map;
+import java.util.List;
 
 public class ExtensionRunner {
     private static final Logger logger = LogManager.getLogger(ExtensionRunner.class);
     private WebDriver driver;
     private static final String OUTPUT_FILE = "page_content.json";
+    private static final String SNAPSHOTS_DIR = "snapshots";
 
     public void start() {
         try {
@@ -19,28 +19,21 @@ public class ExtensionRunner {
             ScrapingService scrapingService = new ScrapingService(driver);
 
             // Example usage
-            scrapingService.navigateTo("https://pl.wikipedia.org/wiki/Wikipedia:Strona_główna");
-//            String pageTitle = scrapingService.getPageTitle();
-//            logger.info("Page title: " + pageTitle);
-            // 1. Pobierz całą zawartość strony
-            Map<String, ScrapingService.WebElementData> pageContent = scrapingService.extractPageContent();
+            scrapingService.navigateTo("https://pl.wikipedia.org/wiki/Sto%C5%82eczne_Kr%C3%B3lewskie_Miasto_Krak%C3%B3w");
 
-            // 2. Zapisz dane do pliku JSON
-            ContentSaver.saveToJson(pageContent, OUTPUT_FILE);
+            // Capture and save HTML snapshot
+            String snapshot = scrapingService.capturePageSnapshot();
+            String snapshotPath = ContentSaver.saveSnapshot(snapshot, SNAPSHOTS_DIR);
+            logger.info("Page snapshot saved to: {}", snapshotPath);
+
+            // Extract content with retry mechanism
+            List<ScrapingService.WebElementData> allElements =
+                    scrapingService.extractPageContentWithRetry(3, 1000);
+
+            // Save to JSON
+            ContentSaver.saveToJson(allElements, OUTPUT_FILE);
             logger.info("Content saved to {}", OUTPUT_FILE);
 
-//            // 3. Przykład wczytania i użycia zapisanych danych
-//            Map<String, WebElementData> loadedContent = ContentSaver.loadFromJson(OUTPUT_FILE);
-//            logger.info("Loaded {} elements from file", loadedContent.size());
-//
-//            // 4. Przykład użycia - nawigacja do pierwszego linku
-//            loadedContent.values().stream()
-//                    .filter(e -> e.getType() == WebElementData.ElementType.LINK)
-//                    .findFirst()
-//                    .ifPresent(element -> {
-//                        logger.info("Navigating to first link: {}", element.getText());
-//                        scrapingService.navigateToElement(element.getSelector());
-//                    });
 
         } catch (Exception e) {
             logger.error("Error in extension runner", e);
@@ -49,13 +42,5 @@ public class ExtensionRunner {
                 driver.quit();
             }
         }
-    }
-
-    private void saveContent(Map<String, ScrapingService.WebElementData> content) {
-        // Implementacja zapisu do pliku/DB
-        content.forEach((selector, data) -> {
-            logger.info("Saved element - Selector: {}, Text: {}, Type: {}",
-                    selector, data.getText(), data.getType());
-        });
     }
 }
