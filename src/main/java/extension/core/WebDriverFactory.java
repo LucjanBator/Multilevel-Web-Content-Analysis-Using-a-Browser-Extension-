@@ -19,12 +19,14 @@ public class WebDriverFactory {
             logger.info("Using ChromeDriver at: " + driverPath);
 
             ChromeOptions options = new ChromeOptions();
-            options.addArguments("--remote-allow-origins=*");  // Ważne!
+            options.addArguments("--remote-allow-origins=*");
             options.addArguments("--no-sandbox");
             options.addArguments("--disable-dev-shm-usage");
+            options.addArguments("--no-sandbox");
+            options.addArguments("--window-size=1920,1080");
+            options.addArguments("--disable-gpu");
+//            options.addArguments("--headless"); // Run in headless mode
             options.addArguments("--disable-blink-features=AutomationControlled");
-
-            // Dodatkowe opcje dla stabilności
             options.addArguments("--start-maximized");
             options.setImplicitWaitTimeout(Duration.ofSeconds(10));
 
