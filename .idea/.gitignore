@@ -8,3 +8,4 @@
 /sonarlint/
 /target/
 /dataSources.local.xml
+config.properties
