@@ -19,7 +19,6 @@ public class PerformanceTest extends BaseAI {
 
     @BeforeAll
     void setUp() {
-        System.out.println("=== ROZGRZEWKA MODELI ===");
         String testUrl = "https://pl.wikipedia.org/wiki/Smartfon";
         String query = "Jaki system operacyjny steruje urządzeniem?";
         for (int i = 0; i < 1; i++) {

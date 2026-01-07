@@ -11,9 +11,6 @@ public class CPUMonitor {
     private long lastProcessCpuTime = 0;
     private long lastSystemTime = 0;
 
-    /**
-     * Pobiera aktualne zużycie CPU dla procesu JVM w procentach
-     */
     public double getProcessCpuUsage() {
         try {
             long processCpuTime = osBean.getProcessCpuTime();
@@ -44,9 +41,6 @@ public class CPUMonitor {
         }
     }
 
-    /**
-     * Pobiera systemowe zużycie CPU
-     */
     public double getSystemCpuUsage() {
         try {
             return osBean.getSystemCpuLoad() * 100.0;
@@ -56,9 +50,6 @@ public class CPUMonitor {
         }
     }
 
-    /**
-     * Mierzy zużycie CPU podczas wykonywania zadania
-     */
     public CPUMetrics measureCpuDuringTask(Runnable task) {
         double cpuBefore = getProcessCpuUsage();
         double systemCpuBefore = getSystemCpuUsage();

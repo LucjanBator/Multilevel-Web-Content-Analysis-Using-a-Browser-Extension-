@@ -242,19 +242,16 @@ public class ScrapingService {
     }
 
     public List<ScrapingService.WebElementData> extractContent(String userContext) {
-        try {
-            List<ScrapingService.WebElementData> allElements = new ArrayList<>();
-            allElements.addAll(extractLinks());
-            allElements.addAll(extractTextElements());
+        List<ScrapingService.WebElementData> allElements = new ArrayList<>();
+        allElements.addAll(extractLinks());
+        allElements.addAll(extractTextElements());
 
-            logger.info("Total elements found: {}", allElements.size());
+        logger.info("Total elements found: {}", allElements.size());
 
-            List<ScrapingService.WebElementData> preFiltered = preFilterElements(allElements, userContext);
-            logger.info("After pre-filtering: {} elements", preFiltered.size());
+        List<ScrapingService.WebElementData> preFiltered = preFilterElements(allElements, userContext);
+        logger.info("After pre-filtering: {} elements", preFiltered.size());
 
-            return preFiltered;
-        } finally {
-        }
+        return preFiltered;
     }
 
     private List<ScrapingService.WebElementData> preFilterElements(List<ScrapingService.WebElementData> elements, String userContext) {
@@ -310,7 +307,7 @@ public class ScrapingService {
             logger.info("\nZNALEZIONE TEKSTY ({}{}", filtered.textElements().size(), "):");
             for (int i = 0; i < filtered.textElements().size(); i++) {
                 WebElementData element = filtered.textElements().get(i);
-                logger.info("{}. \"{}{}", (i + 1),  element.getText(), "\"");
+                logger.info("{}. \"{}{}", (i + 1), element.getText(), "\"");
                 logger.info("   Selektor: {}", element.getSelector());
                 logger.info("   Typ: {}", element.getType());
                 logger.info("   Lokalizacja: {}\n", element.getLocation());
@@ -321,7 +318,7 @@ public class ScrapingService {
             logger.info("\nZNALEZIONE LINKI ({}{}", filtered.linkElements().size(), "):");
             for (int i = 0; i < filtered.linkElements().size(); i++) {
                 WebElementData element = filtered.linkElements().get(i);
-                logger.info( "{}. \"{}{}", (i + 1), element.getText(), "\"");
+                logger.info("{}. \"{}{}", (i + 1), element.getText(), "\"");
                 logger.info("   Selektor: {}", element.getSelector());
                 logger.info("   Typ: {}", element.getType());
                 logger.info("   Lokalizacja: {}\n", element.getLocation());
